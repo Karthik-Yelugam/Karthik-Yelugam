@@ -7,7 +7,7 @@
 Retail · Healthcare · Financial Fraud · 6.3M+ Records Processed · Rs. 6.85 Cr+ in Sales Patterns Uncovered
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikyelugam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikyelugam09@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikyelugam0911@gmail.com)
 [![Microsoft Certified DP-600 Fabric Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Certified%3A%20Fabric%20Data%20Engineer%20Associate%20(DP--600)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-in/KarthikYelugam-3779/F5AAB23C535D9C51?sharingId=EEB57B6E1597E1A5)
 
 </div>
@@ -20,7 +20,7 @@ I build **end-to-end analytics pipelines** - from raw data ingestion and large-s
 
 - 🏭 Processed **6.3M+ financial records** and **522K+ retail transactions** at production scale  
 - 📊 Delivered **4 interactive Power BI dashboards** and **10 business-scenario reports** linked to Rs. 6.85 Cr+ in sales  
-- 🔍 Engineered a Market Basket Analysis pipeline with **73.6% confidence** and **18.3 lift** on 21.6K+ customer baskets  
+- 🔍 Engineered a Market Basket Analysis pipeline with **68.5% confidence** and **18.35 lift** on 21.6K+ customer baskets  
 - ⚡ Reduced dataset processing runtime by **90%+** via stratified sampling on a 6.3M-row fraud dataset  
 - 🏅 **Best Paper Award** - ICCCAI-2025 International Conference  
 - 🎓 **Microsoft Certified: Fabric Data Engineer Associate (DP-600)** - rare at entry level  
@@ -83,7 +83,7 @@ Independently scoped, built, and delivered **three end-to-end analytics engageme
 
 **Impact:**
 - Processed **522K+ retail records** with **134K+ data quality issues resolved**
-- Generated association rules with up to **73.6% confidence** and **18.3 lift**
+- Generated association rules with up to **68.5% confidence** and **18.35 lift**
 
 **Outcome:** Delivered cross-sell and product bundling recommendations directly actionable by retail stakeholders; pipeline was production-grade, covering data ingestion → cleaning → feature engineering → Apriori mining → business reporting
 
@@ -168,6 +168,6 @@ Sathyabama Institute of Science and Technology, Chennai
 <div align="center">
 
 *Open to full-time Data Analyst roles across PAN India and remote.*  
-**Let's connect → [karthikyelugam09@gmail.com](mailto:karthikyelugam09@gmail.com)**
+**Let's connect → [karthikyelugam0911@gmail.com](mailto:karthikyelugam0911@gmail.com)**
 
 </div>
